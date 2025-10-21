@@ -1,0 +1,4 @@
+/Users/birukm/ResearchCGAL/cgal-start/build/CMakeFiles/stl_to_cgal.dir
+/Users/birukm/ResearchCGAL/cgal-start/build/CMakeFiles/cv2.dir
+/Users/birukm/ResearchCGAL/cgal-start/build/CMakeFiles/edit_cache.dir
+/Users/birukm/ResearchCGAL/cgal-start/build/CMakeFiles/rebuild_cache.dir
