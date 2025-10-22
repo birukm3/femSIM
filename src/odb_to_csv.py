@@ -132,4 +132,4 @@ elems_f.close()
 stress_f.close()
 odb.close()
 
-print("✅ Done. Wrote nodes_{}.csv, elements_{}.csv, stress_{}.csv".format(suffix, suffix, suffix))
+print("Done. Wrote nodes_{}.csv, elements_{}.csv, stress_{}.csv".format(suffix, suffix, suffix))
